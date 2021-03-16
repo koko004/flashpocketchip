@@ -30,15 +30,15 @@ Must be used Ubuntu I tested with Kali and dont works best option Ubuntu 16
 
 - Note: Follow the instructions from here [ https://github.com/editkid/chip-battery-status/blob/master/README.md ]
 
-- Right-click (or Ctrl-click) on an existing panel item, e.g your clock. Choose Panel > Add New Items...
-![image1](https://miro.medium.com/max/353/1*MNH44UcNhoHMk-DbKLT6QA.png)
-- Select Generic Monitor from the list and hit Add
-![image2](https://miro.medium.com/max/356/0*nJ0VnvGAe3xQsFt8.png)
-- You’ll see (genmon) xxx appear in your panel. Right-click (or Ctrl-click) it and choose Properties
-![image3](https://miro.medium.com/max/205/0*8vuHNnsiv1rB9Yws.png)
-- In the Command field enter chip-battery-xfce-genmon and for the Period (s) enter 5. Hit Close
+Right-click (or Ctrl-click) on an existing panel item, e.g your clock. Choose Panel > Add New Items...
+ ![image1](https://miro.medium.com/max/353/1*MNH44UcNhoHMk-DbKLT6QA.png)
+Select Generic Monitor from the list and hit Add
+ ![image2](https://miro.medium.com/max/356/0*nJ0VnvGAe3xQsFt8.png)
+You’ll see (genmon) xxx appear in your panel. Right-click (or Ctrl-click) it and choose Properties
+ ![image3](https://miro.medium.com/max/205/0*8vuHNnsiv1rB9Yws.png)
+In the Command field enter chip-battery-xfce-genmon and for the Period (s) enter 5. Hit Close
 ![image4](https://miro.medium.com/max/348/0*F_J3FMwO1lue58IY.png)
-- All Done.
+All Done.
 
 
 
